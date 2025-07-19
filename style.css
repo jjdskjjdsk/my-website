@@ -1,0 +1,15 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  color: #007acc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
